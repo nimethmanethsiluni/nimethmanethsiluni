@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Nimethma Nethsiluni</h1>
 <h3 align="center">Undergraduate in Information Systems | Faculty of Computing at Sabaragamuwa University of Sri Lanka</h3>
