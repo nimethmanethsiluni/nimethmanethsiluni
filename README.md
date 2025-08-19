@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nimethma Nethsiluni</h1>
 <h3 align="center">Undergraduate in Information Systems | Faculty of Computing at Sabaragamuwa University of Sri Lanka</h3>
 
-- 📫 How to reach me **nethsilunin@gamil.com**
+- 📫 How to reach me **nethsilunin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
