@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimethma Nethsiluni</h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nimethmanethsiluni
+&label=Profile%20views&color=0e75b6&style=flat" alt="indubrolk" /> </p>
 <h3 align="center">Undergraduate in Information Systems | Faculty of Computing at Sabaragamuwa University of Sri Lanka</h3>
 
 - 🌱 I’m currently learning **Javascript,Java and Python languages**
